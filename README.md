@@ -1,4 +1,4 @@
-GitBook Example
+Test public book
 =======
 
-Welcome in your GitBook!
+nothing here.
